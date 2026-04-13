@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Python, JavaScript, TailwindCSS, NodeJS, ReactJS, ExpressJS, MongoDB, MySQL**
 
-- 📫 How to reach me **nazrulislam456765@gmail.com**
+- 📫 How to reach me **mdnazrulislam3131@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nKZ6-eKH_CZ4hB7UnpBVjQ5ASDWNfUOh/view?usp=sharing](https://drive.google.com/file/d/1nKZ6-eKH_CZ4hB7UnpBVjQ5ASDWNfUOh/view?usp=sharing)
 
